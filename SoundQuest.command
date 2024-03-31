@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Game Loader
+
 # Get the directory of the script
 SCRIPT_DIR=$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" &>/dev/null && pwd)
 
